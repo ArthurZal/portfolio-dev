@@ -47,7 +47,7 @@
     position: absolute;
     width: 20px;
     height: 20px;
-    background-color: var(--first-color);
+    background-color: #ffff;
     rotate: -30deg;
 }
 
